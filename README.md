@@ -1,48 +1,48 @@
-#  Password Toolkit Ultra
+# 🔐 Password Toolkit Ultra
 
-A powerful and customizable Python tool to **analyze password strength** and **generate custom wordlists**. Comes with an intuitive **GUI (Tkinter)** and a **full-featured CLI** for automation.
+A powerful and customizable Python tool to **analyze password strength** and **generate custom wordlists**, designed for cybersecurity enthusiasts, ethical hackers, and password auditors. Comes with an intuitive **GUI (Tkinter)** and a **full-featured CLI** for automation.
 
 ---
 
-##  Key Features
+## 🚀 Key Features
 
-* ** Password Strength Analyzer**
+* **🔍 Password Strength Analyzer**
   Analyze the strength of any password instantly using [zxcvbn](https://github.com/dropbox/zxcvbn), which uses pattern matching and heuristics based on real-world password data.
 
-** Entropy-Based Estimation**
+* **🧠 Entropy-Based Estimation**
   Get crack time estimates, entropy values, and actionable feedback on weak passwords.
 
-** Custom Wordlist Generator**
+* **🧰 Custom Wordlist Generator**
   Build massive personalized wordlists using user-provided keywords (e.g., names, dates, pets), leetspeak transformations, and suffix variations (like birth years, common symbols, numbers).
 
-** Wordlist Export**
+* **📄 Wordlist Export**
   Easily export generated wordlists in `.txt` format compatible with password recovery/cracking tools such as John the Ripper and Hashcat.
 
-** Modern GUI and CLI**
+* **🖥️ Modern GUI and CLI**
   Choose between a user-friendly Tkinter interface or a scriptable command-line interface using `argparse`.
 
-** Fast and Lightweight**
+* **⚡ Fast and Lightweight**
   Works entirely offline, requires minimal system resources, and ensures full data privacy.
 
 ---
 
-##  Screenshots
+## 🖼️ Screenshots
 
-###  Password Analyzer
+### 🔐 Password Analyzer
 
 ![Password Analyzer Screenshot](password_analyzer.png)
 
-###  Wordlist Generator
+### 🧰 Wordlist Generator
 
 ![Wordlist Generator Screenshot](wordlist_generator.png)
 
-###  Sample Wordlist Output
+### 📄 Sample Wordlist Output
 
 ![Sample Wordlist Screenshot](wordlist_sample.png)
 
 ---
 
-##  Installation
+## 📦 Installation
 
 1. **Clone this repository**
 
@@ -69,9 +69,9 @@ A powerful and customizable Python tool to **analyze password strength** and **g
 
 ---
 
-##  Usage Guide
+## 🛠️ Usage Guide
 
-###  Run GUI Version
+### ✅ Run GUI Version
 
 Launch the graphical interface:
 
@@ -79,7 +79,7 @@ Launch the graphical interface:
 python password_analyzer.py
 ```
 
-###  Command Line Usage
+### ⚙️ Command Line Usage
 
 * **Analyze a password:**
 
@@ -95,9 +95,9 @@ python password_analyzer.py
 
 ---
 
-##  How It Works
+## 🔧 How It Works
 
-###  Password Strength Analyzer
+### 🔐 Password Strength Analyzer
 
 * Utilizes `zxcvbn` for deep strength evaluation based on common passwords, keyboard patterns, names, and dictionary words.
 * Provides:
@@ -107,7 +107,7 @@ python password_analyzer.py
   * Entropy
   * Suggestions for stronger passwords
 
-###  Wordlist Generator
+### 🧰 Wordlist Generator
 
 * Input: comma-separated keywords (e.g., `mohit,1998,fluffy`)
 * Process:
@@ -119,7 +119,7 @@ python password_analyzer.py
 
 ---
 
-##  FAQ
+## ❓ FAQ
 
 **Q: Can I use the wordlist with Hashcat or John the Ripper?**
 **A:** Yes! The generated `.txt` files are fully compatible.
@@ -132,15 +132,12 @@ python password_analyzer.py
 
 ---
 
-##  Contributing
+## 🤝 Contributing
 
 We welcome community contributions!
-If you want to report a bug, suggest a feature, or contribute code:
-
-
+If you want to report a bug, suggest a feature, or contribute code
 ---
 
-##  Author
+## 👤 Author
 
 **Mohit Kumar**
-
