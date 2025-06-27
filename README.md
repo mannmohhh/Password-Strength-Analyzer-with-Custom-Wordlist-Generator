@@ -1,10 +1,6 @@
-Absolutely! Here's a **fully refined and complete README** that merges all the **features** and elements from both the top and bottom sections of your original input. This version is polished, professional, and GitHub-ready:
-
----
-
 # 🔐 Password Toolkit Ultra
 
-A powerful and customizable Python tool to **analyze password strength** and **generate custom wordlists**, designed for cybersecurity enthusiasts, ethical hackers, and password auditors. Comes with an intuitive **GUI (Tkinter)** and a **full-featured CLI** for automation.
+A powerful and customizable Python tool to **analyze password strength** and **generate custom wordlists**. Comes with an intuitive **GUI (Tkinter)** and a **full-featured CLI** for automation.
 
 ---
 
@@ -140,11 +136,6 @@ python password_analyzer.py
 
 We welcome community contributions!
 If you want to report a bug, suggest a feature, or contribute code:
-
-1. Fork this repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
 
 
 ---
