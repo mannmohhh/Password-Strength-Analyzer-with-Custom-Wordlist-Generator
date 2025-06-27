@@ -6,22 +6,22 @@ A powerful and customizable Python tool to **analyze password strength** and **g
 
 ##  Key Features
 
-* ** Password Strength Analyzer**
+** Password Strength Analyzer**
   Analyze the strength of any password instantly using [zxcvbn](https://github.com/dropbox/zxcvbn), which uses pattern matching and heuristics based on real-world password data.
 
-* ** Entropy-Based Estimation**
+** Entropy-Based Estimation**
   Get crack time estimates, entropy values, and actionable feedback on weak passwords.
 
-* ** Custom Wordlist Generator**
+** Custom Wordlist Generator**
   Build massive personalized wordlists using user-provided keywords (e.g., names, dates, pets), leetspeak transformations, and suffix variations (like birth years, common symbols, numbers).
 
-* ** Wordlist Export**
+** Wordlist Export**
   Easily export generated wordlists in `.txt` format compatible with password recovery/cracking tools such as John the Ripper and Hashcat.
 
-* ** Modern GUI and CLI**
+** Modern GUI and CLI**
   Choose between a user-friendly Tkinter interface or a scriptable command-line interface using `argparse`.
 
-* ** Fast and Lightweight**
+** Fast and Lightweight**
   Works entirely offline, requires minimal system resources, and ensures full data privacy.
 
 ---
