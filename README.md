@@ -6,7 +6,7 @@ A powerful and customizable Python tool to **analyze password strength** and **g
 
 ##  Key Features
 
-* **🔍 Password Strength Analyzer**
+* ** Password Strength Analyzer**
   Analyze the strength of any password instantly using [zxcvbn](https://github.com/dropbox/zxcvbn), which uses pattern matching and heuristics based on real-world password data.
 
 * ** Entropy-Based Estimation**
